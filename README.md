@@ -24,7 +24,7 @@ This project is a **Streamlit-based AI-powered data analysis application** that 
 1. Clone the repository:
    ```bash
    git clone https://github.com/abhinavgkrishnan/Python-data-analyst-2.0.git
-   cd Analyst
+   cd Python-data-analyst-2.0
    ```
 
 2. Create a virtual environment:
